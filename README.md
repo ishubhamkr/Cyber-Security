@@ -1,2 +1,2 @@
 # Cyber-Security
-This Repository contains presenations related to cyber security
+This Repository contains presentations related to cyber security
