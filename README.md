@@ -1,6 +1,6 @@
 # Cyber-Security
 This Repository contains presentations related to cyber security
-## Prsentation Topics
+## Presentation Topics
 - [Introduction](https://github.com/ishubhamkr/Cyber-Security/blob/main/1.%20Introduction.pptx)
 - [Terminology](https://github.com/ishubhamkr/Cyber-Security/blob/main/2.Terminology.pptx)
 - [Types of malicious file](https://github.com/ishubhamkr/Cyber-Security/blob/main/3.%20Types%20of%20malicious%20files.pptx)
